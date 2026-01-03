@@ -1,0 +1,1 @@
+# AI-Earthquake-Alert-System-India
